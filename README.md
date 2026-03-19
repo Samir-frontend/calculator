@@ -12,6 +12,9 @@ A simple calculator using HTML, CSS and JavaScript
 - HTML
 - CSS
 - JavaScript
+  
+## 🚀 Live Demo
+https://samir-frontend.github.io/calculator/
 
 ## 👨‍💻 Author
 Samir
