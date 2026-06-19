@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=🧮%20Calculator&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=40&desc=A%20Sleek%20%26%20Functional%20JavaScript%20Calculator&descSize=15&descAlignY=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Calculator&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=40&desc=A%20Sleek%20%26%20Functional%20JavaScript%20Calculator&descSize=15&descAlignY=62"/>
 
 <a href="https://samir-frontend.github.io/calculator/">
   <img src="https://img.shields.io/badge/🧮%20Open%20Calculator-7C3AED?style=for-the-badge"/>
@@ -81,5 +81,3 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer"/>
 
 </div>
-
-
