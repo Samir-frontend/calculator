@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Calculator&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=40&desc=A%20Sleek%20%26%20Functional%20JavaScript%20Calculator&descSize=15&descAlignY=62"/>
+![Calculator Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&height=80&lines=🧮+Calculator;A+Sleek+%26+Functional+JS+App)
 
 <a href="https://samir-frontend.github.io/calculator/">
   <img src="https://img.shields.io/badge/🧮%20Open%20Calculator-7C3AED?style=for-the-badge"/>
@@ -76,8 +76,7 @@
 <div align="center">
 
 **Samir Sheikh** · Front-End Developer · 📍 Rawatbhata, Rajasthan
-[Portfolio](https://samir-frontend.github.io/Personal-Portfolio/) · [GitHub](https://github.com/Samir-frontend) · 📧 samirshiekh0808@gmail.com
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer"/>
+[Portfolio](https://samir-frontend.github.io/Personal-Portfolio/) · [GitHub](https://github.com/Samir-frontend) · 📧 samirshiekh0808@gmail.com
 
 </div>
